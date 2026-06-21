@@ -45,34 +45,6 @@ The program presents a main menu where you can choose:
 
 Type 'q' at any time to return to the previous menu or exit.
 
-## Project Structure
-
-```
-Astrocopilot/
-├── astrocopilot.py                 # Main entry point
-├── calculators/                    # Calculator modules
-│   ├── Functions.py               # Core calculation functions
-│   ├── calculators_hub.py         # Calculator menu interface
-│   ├── startrail_cac.py          # Star trail prevention calculator
-│   ├── FOV_cac.py                # Field of view calculator
-│   ├── EV_cac.py                 # Exposure value calculator
-│   ├── Integration_cac.py        # Integration time calculator
-│   └── Image_scale_cac.py        # Image scale calculator
-├── camera_info_lookup/             # Camera database module
-│   ├── cam_info_lookup.py        # Camera lookup interface
-│   └── FUNCTIONS.py              # Database navigation functions
-├── resources/                      # Learning resources module
-│   ├── resources_hub.py          # Resources menu interface
-│   └── FUNCTIONS.py              # Resource navigation functions
-├── target_recommendation/          # Target recommendation module
-│   ├── target_recommedator.py    # Target recommendation interface
-│   └── FUNCTIONS.py              # Recommendation engine
-└── databases/                      # Data files
-    ├── cameras.json              # Camera specifications database
-    ├── Messier_targets.json      # Messier objects database
-    └── resources.json            # Learning resources database
-```
-
 ## Future Updates
 
 This project is in its early stages. Planned enhancements include:
@@ -81,11 +53,6 @@ This project is in its early stages. Planned enhancements include:
 - More celestial object catalogs (NGC, IC, etc.)
 - Enhanced user interface
 - AI assistant chatbox
-
-## Requirements
-
-- Python 3.x
-- No external dependencies required (uses only standard library)
 
 ## Notes
 
@@ -96,7 +63,7 @@ This project is in its early stages. Planned enhancements include:
 
 ## Contributing
 
-To contribute improvements or report issues, please ensure any code additions follow the existing style and include appropriate comments and docstrings.
+report issues, contact me through insta(@marioskritikosx) or youtube(@shadowx0010.
 
 ---
 
