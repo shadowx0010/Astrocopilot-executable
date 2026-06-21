@@ -33,12 +33,7 @@ Get personalized recommendations for celestial targets based on your focal lengt
 
 ## Installation
 
-1. Clone the repository
-2. Ensure you have Python 3.x installed
-3. Run the main program:
-   ```
-   python astrocopilot.py
-   ```
+-just download the zip from the release page(for now being: astrocopilot_v1.0.0.7z)
 
 ## Usage
 
