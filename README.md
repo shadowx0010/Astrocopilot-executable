@@ -29,7 +29,7 @@ Access curated resources including:
 - Image processing tutorials
 
 ### Target Recommendation Engine
-Get personalized recommendations for celestial targets based on your focal length and camera specifications. Currently supports all Messier objects.
+Get personalized recommendations for celestial targets based on your focal length and camera specifications. Currently supports a somewhat wide gamma of objects.
 
 ## Installation
 
