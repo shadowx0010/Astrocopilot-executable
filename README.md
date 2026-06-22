@@ -61,10 +61,8 @@ This project is in its early stages. Planned enhancements include:
 - All calculator results are approximate and should be verified for critical applications
 - Presets are used only for the FOV calculator and the target recommendation. For additional information use the camera info option
 - when you add shutter speed add it as an integer and not for example 1/4000
-- when you look up for your cameras info note that pixel pitch and pixel size even though they are different in modern cameras have the same number
-but if you are unsure you always search it on the internet
--when inputing an option make sure you type it exactly as it is shown(mind that it's not case sensitive)and also for the calculators type for example
-(integration time and not integration time calculator)
+- when you look up for your cameras info note that pixel pitch and pixel size even though they are different in modern cameras have the same numberbut if you are unsure you always search it on the internet
+- when inputing an option make sure you type it exactly as it is shown(mind that it's not case sensitive)and also for the calculators type for example(integration time and not integration time calculator)
 
 ## Contributing
 
